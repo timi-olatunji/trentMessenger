@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Trentmessenger.Account">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIAQAACAACAAAIA0AAAAEAEAAAABwAIAAFAAIABQE=</HashCode>
+      <FileName>Classes\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Connection">
+    <Position X="22.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAACAAAAABAAAQAAEAAAACAAAAQAAAA=</HashCode>
+      <FileName>Classes\ConnectionObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.recovery">
+    <Position X="15.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAEAgAQACAAAQAAEBCAAASiREAAAAAAIcQAAQFAHAI=</HashCode>
+      <FileName>Forms\AccRecovery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.register">
+    <Position X="23.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAEAAFAWCAJAUIMAICloACmAEAIAAAAAQAgAAIQACA=</HashCode>
+      <FileName>Forms\register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.settings">
+    <Position X="8" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABEQACEACEQAAADSAAGGAAACCAAgAAAAAQAAAAA=</HashCode>
+      <FileName>Forms\settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.login">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBQEBCAAACBAAEAgYRCACEAuCAAAAIBAAACAAAEAAAA=</HashCode>
+      <FileName>Forms\SignIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.ChatHome">
+    <Position X="19.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAGAAABAAAACACAACAAAACAABAAAAAQAAAQg=</HashCode>
+      <FileName>Forms\TrentMessenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.accountSettings">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mAAEAgBAICItKUAAVgKAAAWCIGKKDBgAQIAoABLBAAA=</HashCode>
+      <FileName>Forms\UserSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Program">
+    <Position X="15" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.ucClock">
+    <Position X="17.75" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAGAAAAAAABCAAAACAAAAEAAAAIAAACAAAAA=</HashCode>
+      <FileName>UserControls\ClockUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.ucTabs">
+    <Position X="21" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAggAAADCAQAQABACAAEAKAAYAAAIIAIAAAAAAAAA=</HashCode>
+      <FileName>UserControls\TabsUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Classes.AppSettings">
+    <Position X="9.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAJBAIAAQQAAAAAEAAACBAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>Classes\AppSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Classes.Emoticon">
+    <Position X="23.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Classes\Emoticon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Forms.AccountProfile">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACBAAYAAABDEABAGAAAAQAQAUQAkIABAAAA=</HashCode>
+      <FileName>Forms\AccountProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Forms.AppSettings">
+    <Position X="1" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sAAKgAEAACAAQFgIAACkAIAKIgQAAAIAAAAAACgiEAA=</HashCode>
+      <FileName>Forms\AppSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Forms.ContactUpdate">
+    <Position X="13.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAACAAAgAAAACAhBgKAABAABAAEAAAAAAAQAA=</HashCode>
+      <FileName>Forms\ContactUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Forms.AcctProfile">
+    <Position X="20.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Forms\ContactUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Forms.Pairchat">
+    <Position X="10.5" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABFgAAgACAQIAChAATBAACCIABAAAAiQQBAAAACAAg=</HashCode>
+      <FileName>Forms\Pairchat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Properties.Resources">
+    <Position X="1.25" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABQAEgAQAAACRIAAECBEAIAAYBAAAAAQAGAiAAARYA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.Properties.Settings">
+    <Position X="20.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.UserControls.AccountUC">
+    <Position X="1.25" Y="20.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Trentmessenger.UserControls.AccountUC.AddAccountEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserControls\AccountUC.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAGAAEAAgSAAAACEAAAACAAQAAEIACACQg=</HashCode>
+      <FileName>UserControls\AccountUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.UserControls.ChatUC">
+    <Position X="22.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEIAEACABRUAAAAaBAQACCABAAAAAQAMNJAAECDQ=</HashCode>
+      <FileName>UserControls\ChatUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.UserControls.ContactUC">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQAAAACAEAIAAAAKBAECCACAAACBAAAEoAAABCAQ=</HashCode>
+      <FileName>UserControls\ContactUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.UserControls.EmojiUC">
+    <Position X="18.75" Y="14.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Trentmessenger.UserControls.EmojiUC.EmoticonClickEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserControls\EmojiUC.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAGAAACAAAACAAAACAACgAgAAAACAAAEAAAA=</HashCode>
+      <FileName>UserControls\EmojiUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trentmessenger.UserControls.MessageUC">
+    <Position X="5.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAQAAECAIAAAAAACBAAACAAAAAAAAQAADAEQAAAA=</HashCode>
+      <FileName>UserControls\MessageUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
